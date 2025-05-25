@@ -1,0 +1,29 @@
+h1, h2 {
+	font-family: Arial;
+	color: grey;
+}
+/* 新增规则，为 h1 新增边框样式 */
+h1 {
+	border-bottom:1px solid black;
+}
+p {
+	color: maroon;
+}
+body {
+      font-family: Arial;
+      font-size: 1.5em;
+}
+em {
+  font-family: "cascadia mono"; /*改变字体 */
+}
+html {
+    font-family: 20px; /* 设置根元素字体大小 */ 
+}
+
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #df72c3;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+}
